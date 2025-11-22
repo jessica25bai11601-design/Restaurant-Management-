@@ -40,4 +40,4 @@ Then User have to tell the quantity of his order
 User can change or remove the item or write done to inform this is all he wants to order 
 
 ## Screesshot
-
+https://github.com/jessica25bai11601-design/Restaurant-Management-/blob/27aedf43c70ec0b1cf4c96d94e5a865654dfb2e6/Screenshot%202025-11-22%20194434.png
